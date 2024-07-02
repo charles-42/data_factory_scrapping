@@ -1,9 +1,12 @@
+json/real_function_properties.json
+
 bin
 obj
 csx
 .vs
 edge
 Publish
+/.vscode
 
 *.user
 *.suo
